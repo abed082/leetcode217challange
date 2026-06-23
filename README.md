@@ -10,10 +10,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/abed082/leetcode217challange/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/abed082/leetcode217challange/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/abed082/leetcode217challange/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/abed082/leetcode217challange/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abed082/leetcode217challange/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/abed082/leetcode217challange/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/abed082/leetcode217challange/tree/master/0136-single-number) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/abed082/leetcode217challange/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
