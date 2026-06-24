@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/abed082/leetcode217challange/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/abed082/leetcode217challange/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/abed082/leetcode217challange/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/abed082/leetcode217challange/tree/master/0704-binary-search) |
 | [1748-sum-of-unique-elements](https://github.com/abed082/leetcode217challange/tree/master/1748-sum-of-unique-elements) |
 ## Hash Table
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/abed082/leetcode217challange/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/abed082/leetcode217challange/tree/master/0704-binary-search) |
 ## Counting
 |  |
 | ------- |
