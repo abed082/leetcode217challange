@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/abed082/leetcode217challange/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/abed082/leetcode217challange/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/abed082/leetcode217challange/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/abed082/leetcode217challange/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abed082/leetcode217challange/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/abed082/leetcode217challange/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/abed082/leetcode217challange/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/abed082/leetcode217challange/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/abed082/leetcode217challange/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/abed082/leetcode217challange/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/abed082/leetcode217challange/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -37,4 +40,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/abed082/leetcode217challange/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/abed082/leetcode217challange/tree/master/0349-intersection-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/abed082/leetcode217challange/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
