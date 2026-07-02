@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/abed082/leetcode217challange/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/abed082/leetcode217challange/tree/master/0704-binary-search) |
 | [1748-sum-of-unique-elements](https://github.com/abed082/leetcode217challange/tree/master/1748-sum-of-unique-elements) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/abed082/leetcode217challange/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/abed082/leetcode217challange/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Hash Table
 |  |
