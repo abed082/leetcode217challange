@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/abed082/leetcode217challange/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abed082/leetcode217challange/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/abed082/leetcode217challange/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/abed082/leetcode217challange/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/abed082/leetcode217challange/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/abed082/leetcode217challange/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/abed082/leetcode217challange/tree/master/0268-missing-number) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abed082/leetcode217challange/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/abed082/leetcode217challange/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/abed082/leetcode217challange/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/abed082/leetcode217challange/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abed082/leetcode217challange/tree/master/0349-intersection-of-two-arrays) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/abed082/leetcode217challange/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/abed082/leetcode217challange/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/abed082/leetcode217challange/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/abed082/leetcode217challange/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/abed082/leetcode217challange/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/abed082/leetcode217challange/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abed082/leetcode217challange/tree/master/0349-intersection-of-two-arrays) |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/abed082/leetcode217challange/tree/master/0169-majority-element) |
 | [1748-sum-of-unique-elements](https://github.com/abed082/leetcode217challange/tree/master/1748-sum-of-unique-elements) |
 ## Dynamic Programming
 |  |
@@ -93,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abed082/leetcode217challange/tree/master/0042-trapping-rain-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/abed082/leetcode217challange/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
