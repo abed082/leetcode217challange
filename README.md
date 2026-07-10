@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/abed082/leetcode217challange/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/abed082/leetcode217challange/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/abed082/leetcode217challange/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/abed082/leetcode217challange/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abed082/leetcode217challange/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abed082/leetcode217challange/tree/master/0349-intersection-of-two-arrays) |
 | [0525-contiguous-array](https://github.com/abed082/leetcode217challange/tree/master/0525-contiguous-array) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/abed082/leetcode217challange/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/abed082/leetcode217challange/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/abed082/leetcode217challange/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/abed082/leetcode217challange/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abed082/leetcode217challange/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abed082/leetcode217challange/tree/master/0349-intersection-of-two-arrays) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/abed082/leetcode217challange/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/abed082/leetcode217challange/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/abed082/leetcode217challange/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/abed082/leetcode217challange/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/abed082/leetcode217challange/tree/master/0344-reverse-string) |
 ## Trie
 |  |
